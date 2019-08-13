@@ -1,7 +1,6 @@
 install: gradle wrapper --gradle-version 5.5.1
 
-before_install:
-  - chmod +x gradlew
-
 language: java
 
+jdk:
+  - oraclejdk8
