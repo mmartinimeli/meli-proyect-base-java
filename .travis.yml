@@ -1,3 +1,6 @@
 language: java
 install: true
 os: osx
+
+jdk:
+    - oraclejdk12
