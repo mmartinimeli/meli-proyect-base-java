@@ -1,3 +1,2 @@
-install: gradle wrapper --gradle-version 5.5.1 --distribution-type=all
-
 language: java
+install: true
