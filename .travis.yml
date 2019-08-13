@@ -1,6 +1,3 @@
 install: gradle wrapper --gradle-version 5.5.1 --distribution-type=all
 
 language: java
-
-jdk:
-  - oraclejdk12
